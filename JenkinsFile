@@ -4,7 +4,7 @@ pipeline {
   stages {
     stage('Checkout') {
       steps {
-        git branch: 'main', url: 'https://github.com/Santhosh-P-2005/Devops-Final-Project'
+        git branch: 'main', url: 'https://github.com/NITHESH-MP/Maven_Build_Optimization'
       }
     }
 
