@@ -49,6 +49,7 @@ Maven_Build_Optimization/
 | Environment     | Total Build Time |
 |----------------|------------------|
 | **Local (Terminal)** | ~5.2 seconds     |
+| **Local (Terminal) - testskip ** | ~2.887 seconds     |
 | **CI (Jenkins)**     | ~24.9 seconds    |
 
 🔍 *Note: Jenkins build takes longer due to no caching, network latency, and fresh environment setup.*
